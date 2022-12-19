@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SumOfArguments": {
+      "commandName": "Project",
+      "commandLineArgs": "zxc1 1.1"
+    }
+  }
+}
