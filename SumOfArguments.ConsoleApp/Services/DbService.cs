@@ -6,7 +6,6 @@ namespace SumOfArguments.ConsoleApp.Services
 {
     public interface IDbService
     {
-        void Dispose();
         Task<List<SumModel>> GetAllSumsAsync();
         Task<bool> SaveAsync(SumModel sumModel);
     }
